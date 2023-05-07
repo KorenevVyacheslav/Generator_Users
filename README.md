@@ -20,4 +20,4 @@
 
 ## Как открыть/запустить
 
-Клонировать https://github.com/KorenevVyacheslav/Generator_Users на свой ПК. Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html. Или вставить в адресную строку браузера адрес https://github.com/KorenevVyacheslav/Generator_Users https://korenevvyacheslav.github.io/Ugadayka/.
+Клонировать https://github.com/KorenevVyacheslav/Generator_Users на свой ПК. Зайти в папку сайта в файловом менеджере, кликнуть 2 раза по файлу index.html. Или вставить в адресную строку браузера адрес https://korenevvyacheslav.github.io/Generator_Users/.
