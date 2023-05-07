@@ -1,0 +1,48 @@
+body {
+    background-color: #636b6f;
+}
+
+.game-card {
+    height: 100vh;
+}
+
+h3 {
+    
+    font-size: 30px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h4 {
+    
+    font-size: 25px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.btn-info {
+   
+    border: 3px solid #0d1a8b;
+    border-radius: 20px;
+
+}
+
+.card-header {
+    background-color: #74b9b6;
+    padding: 5px;
+    border: 2px solid #000000;
+    
+}
+
+.card-body {
+    background-color: #dccedd;
+}
+
+p {
+    font-size: 20px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.m-0 {
+    font-size: 25px; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
